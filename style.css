@@ -76,8 +76,8 @@ li a:hover {
 .img-cart {
     height: 34px;
     position: absolute;
-    margin-top: 85px;
-    margin-left: 1170px;
+    margin-top: 70px;
+    margin-left: 1160px;
 }
 .img-cartsize {
     height: 50px;
@@ -86,8 +86,8 @@ li a:hover {
 
 .search-bar {
     position: absolute;
-    padding-left: 400px;
-    padding-top: 70px;
+    padding-left: 300px;
+    padding-top: 30px;
 }
 .search-bar button img {
     height: 28px;
@@ -101,7 +101,7 @@ li a:hover {
 
 .item-padding {
     padding-left: 190px;
-    padding-top: 50px;
+    padding-top: 60px;
 }
 
 
